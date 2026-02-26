@@ -1,4 +1,13 @@
-Key Business Insights
+## B&J Biscuit — Business Insights & Recommendations
+## Key Performance Summary
+Total Revenue: $61,567,883T
+otal COGS: $34,783,050
+Total Profit: $26,784,833
+Profit Margin: 43.5%
+Total Qty Sold: 3,050,309 units
+Unique Customers: 9,060
+
+### Key Business Insights
 1. Overall Performance:
 The business generated 61.6M in total revenue with a total profit of 26.8M, resulting in a strong profit margin of 44%.
 A total of 3.05M units were sold, indicating high transaction volume combined with healthy profitability.
@@ -35,8 +44,7 @@ Cash and Credit Card transactions remain relevant but slightly lower in contribu
 Insight: Customers increasingly prefer digital and cashless payment options.
 
 
-Strategic Recommendations
-
+### Strategic Recommendations
 1. Focus on High-Margin Products:
 Prioritize marketing and inventory planning around Shortbread and other high-priced products.
 Consider bundling or premium variants to further increase average order value.
@@ -60,3 +68,5 @@ Explore partnerships with digital payment providers for cashback or discount cam
 6. Replicate Sales Excellence:
 Analyze the sales approach of top-performing salespersons and standardize best practices.
 Provide targeted training to uplift the performance of other sales staff.
+
+<img width="1915" height="778" alt="proj_6" src="https://github.com/user-attachments/assets/9b6f9c48-1d4a-4896-9d53-b0fce1ba4fc3" />
