@@ -1,10 +1,10 @@
 ## B&J Biscuit — Business Insights & Recommendations
 ## Key Performance Summary
-Total Revenue: $61,567,883T
-otal COGS: $34,783,050
-Total Profit: $26,784,833
-Profit Margin: 43.5%
-Total Qty Sold: 3,050,309 units
+Total Revenue: $61,567,883, 
+Total COGS: $34,783,050, 
+Total Profit: $26,784,833, 
+Profit Margin: 43.5%, 
+Total Qty Sold: 3,050,309 units, 
 Unique Customers: 9,060
 
 ### Key Business Insights
