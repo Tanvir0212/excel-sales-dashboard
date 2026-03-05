@@ -1,72 +1,123 @@
-## B&J Biscuit — Business Insights & Recommendations
-## Key Performance Summary
-Total Revenue: $61,567,883, 
-Total COGS: $34,783,050, 
-Total Profit: $26,784,833, 
-Profit Margin: 43.5%, 
-Total Qty Sold: 3,050,309 units, 
-Unique Customers: 9,060
-
-### Key Business Insights
-1. Overall Performance:
-The business generated 61.6M in total revenue with a total profit of 26.8M, resulting in a strong profit margin of 44%.
-A total of 3.05M units were sold, indicating high transaction volume combined with healthy profitability.
-The cost base remains relatively controlled compared to revenue, which reflects efficient pricing and cost management.
-
-2. Product & Pricing Insights:
-Shortbread emerged as the most profitable product, making it a key revenue and profit driver.
-High-priced products contribute approximately 90% of total revenue, despite potentially lower volume.
-Low-priced products contribute only a small share of revenue, suggesting limited impact on overall profitability.
-Insight: The business is clearly driven by premium product performance rather than volume-based low-price sales.
-
-3. Customer & Demographic Insights:
-The 60–74 age group is the most profitable segment, contributing the highest revenue among all age groups.
-Age groups 30–44 and 45–59 also show strong and stable revenue contributions.
-Revenue drops significantly in the 75–89 age group, indicating lower purchasing activity.
-Male customers generate the highest revenue compared to female and other gender categories.
-Insight: Middle-aged to senior customers are the core revenue base.
-
-4. Geographic Performance:
-San Antonio is the most profitable location, even though other cities like San Jose and Philadelphia show high revenue.
-Cities such as San Diego, New York, and Los Angeles demonstrate consistent revenue performance.
-Chicago shows comparatively lower revenue contribution.
-Insight: Profitability does not always align directly with revenue—some locations generate higher margins than others.
-
-5. Customer & Sales Performance:
-Robert Hernandez is the top customer, contributing the highest individual revenue.
-The top 5 customers account for a significant portion of total revenue, indicating partial dependency on high-value customers.
-Travis Doyle is the top-performing salesperson, suggesting strong individual sales effectiveness.
-Insight: Revenue concentration among top customers and sales staff presents both opportunity and risk.
-
-6. Payment Method Analysis:
-Debit Card and Mobile Payments generate the highest revenue among payment methods.
-Cash and Credit Card transactions remain relevant but slightly lower in contribution.
-Insight: Customers increasingly prefer digital and cashless payment options.
-
-
-### Strategic Recommendations
-1. Focus on High-Margin Products:
-Prioritize marketing and inventory planning around Shortbread and other high-priced products.
-Consider bundling or premium variants to further increase average order value.
-
-2. Target the Most Profitable Age Segments:
-Design marketing campaigns specifically for customers aged 45–74, as they deliver the highest returns.
-Use personalized offers and loyalty programs tailored to this demographic.
-
-3. Optimize Location Strategy:
-Study San Antonio’s operational model to replicate its profitability in other cities.
-Re-evaluate pricing, promotions, or operational costs in underperforming locations like Chicago.
-
-4. Strengthen Key Customer Relationships:
-Introduce VIP or loyalty programs for top customers to reduce churn risk.
-Diversify revenue by nurturing mid-tier customers to reduce dependency on a small group of high-value clients.
-
-5. Leverage Digital Payments:
-Promote Debit Card and Mobile Payment incentives to encourage faster and higher-value transactions.
-Explore partnerships with digital payment providers for cashback or discount campaigns.
-
-6. Replicate Sales Excellence:
-Analyze the sales approach of top-performing salespersons and standardize best practices.
-Provide targeted training to uplift the performance of other sales staff.
-
 <img width="1915" height="778" alt="proj_6" src="https://github.com/user-attachments/assets/9b6f9c48-1d4a-4896-9d53-b0fce1ba4fc3" />
+
+## Business Insights & Recommendations
+
+### 📊 Key Performance Summary
+
+| Metric | Value |
+|---|---|
+| Total Revenue | $61,567,883 |
+| Total COGS | $34,783,050 |
+| Total Profit | $26,784,833 |
+| **Profit Margin** | **43.5%** |
+| Total Qty Sold | 3,050,309 units |
+| Unique Customers | 9,060 |
+
+A 43.5% profit margin is a healthy indicator for a biscuit business, meaning nearly half of every dollar earned flows to the bottom line.
+
+---
+
+### 1. Revenue Distribution
+
+**By Price Category**
+The data reveals a stark divide: low-priced products (Unit Price ≥ $10) drive $55.2M (89.7%) of revenue, while high-priced products (Unit Price < $10) contribute only $6.4M (10.3%). This tells us the business is volume-driven at accessible price points.
+
+> **Recommendation:** While low-priced items dominate sales volume, high-priced items likely carry better margins. Consider promotional bundles or upselling strategies to shift some customers toward premium products like Shortbread ($45/unit) and Vanilla Wafers ($36/unit).
+
+**By Age Group**
+The 60+ demographic is the top revenue contributor at $20.1M (32.6%), followed by 31–45 ($14.8M) and 46–60 ($14.4M). The under-30 segments are underperforming significantly.
+
+> **Recommendation:** The business skews heavily toward older buyers. There is a clear opportunity to launch targeted campaigns aimed at younger demographics (18–30), who represent a large and growing consumer base but contribute only $11.7M.
+
+**By Gender**
+Male customers account for $52.0M (84.4%) of revenue, while Female ($5.8M) and Other ($3.8M) are underrepresented.
+
+> **Recommendation:** This gender skew warrants investigation — is it reflective of the actual customer base or a marketing gap? Consider female-targeted campaigns and packaging to tap into an underserved segment.
+
+**By Payment Method**
+Payment methods are remarkably balanced: Debit Card ($15.6M), Mobile Payment ($15.5M), Credit Card ($15.2M), and Cash ($15.2M) are nearly equal in contribution.
+
+> **Recommendation:** Since mobile payment is neck-and-neck with traditional methods, it's worth investing in a seamless mobile checkout experience. No single method dominates, so don't deprioritize any channel.
+
+---
+
+### 2. Profitability Analysis
+
+**Most Profitable Brand**
+Shortbread is the runaway winner at $10.9M in profit, more than double Vanilla Wafers ($5.8M) in second place. Ginger Snaps ($4.5M) rounds out the top three.
+
+> **Recommendation:** Shortbread is the crown jewel. Ensure its supply chain is robust, stock levels are consistently high, and it receives prominent shelf/marketing placement. Consider limited-edition flavors or packaging to keep it fresh.
+
+**Most Profitable Location**
+San Antonio leads all cities at $3.4M in profit and $7.3M in revenue — significantly ahead of San Jose, Philadelphia, Dallas, and Los Angeles.
+
+> **Recommendation:** Investigate what's working in San Antonio (distribution partner, demographics, promotional activity) and replicate those conditions in underperforming cities like Chicago ($5.7M revenue) and Phoenix ($5.7M revenue).
+
+**Most Profitable Salesperson**
+Travis Doyle tops the leaderboard at $4.8M in profit, followed closely by Joseph Hill ($4.6M). There's a meaningful drop-off after the top two.
+
+> **Recommendation:** Document and share the sales strategies of Travis Doyle and Joseph Hill with the broader team. Consider a mentorship or pairing program to lift the performance of lower-ranked reps.
+
+---
+
+### 3. Customer Insights
+
+**Top 5 Customers by Revenue**
+
+| Customer | Revenue |
+|---|---|
+| Robert Hernandez | $845,382 |
+| Alexander Smith | $398,392 |
+| Mary Rodriguez | $238,057 |
+| Diana Martinez | $210,132 |
+| Matthew Hughes | $162,118 |
+
+Robert Hernandez stands out dramatically — generating more than double the revenue of the next customer.
+
+> **Recommendation:** Robert Hernandez is a critical account and should be treated as a VIP with dedicated account management, loyalty rewards, and early access to new products. Any churn risk from this customer should be flagged immediately.
+
+**Total Customers: 9,060** — a healthy acquisition base, but the concentration of revenue in a few customers suggests that deepening existing relationships is just as important as acquiring new ones.
+
+---
+
+### 4. Geographic Revenue Distribution
+
+Revenue is fairly distributed across the 10 cities, ranging from $5.7M (Chicago/Phoenix) to $7.3M (San Antonio). San Antonio's lead is notable but the gap isn't insurmountable for other cities.
+
+> **Recommendation:** Cities like Chicago and Phoenix are trailing by $1.5–1.6M. A targeted regional push with promotions or expanded retail partnerships could close that gap meaningfully.
+
+---
+
+### 5. Sales Performance & Trends
+
+**Quarterly Revenue (QoQ)**
+
+| Quarter | Revenue |
+|---|---|
+| Q1 2024 | $22.1M |
+| Q2 2024 | $21.6M |
+| Q3 2024 | $11.6M |
+| Q4 2024 | $6.3M |
+
+There is a severe and alarming decline from H1 to H2. Revenue in Q4 is less than 30% of Q1.
+
+> **Recommendation:** This is the most critical finding in the entire dataset. The steep drop starting in August (from ~$7.5M/month to ~$2M/month) demands urgent investigation. Possible causes include seasonality, supply chain disruption, a major customer loss, or data truncation. If this is a real trend, it requires immediate strategic intervention.
+
+**Monthly Trends**
+July was the last strong month ($7.6M), and August saw a sharp crash to $2.0M. The monthly figures from August through December remained flat around $2M, suggesting a structural shift rather than a one-month anomaly.
+
+**Weekday vs. Weekend**
+Weekdays generate $44.7M (72.6%) vs. weekends at $16.9M (27.4%), consistent with a B2B or retail-hours-driven business.
+
+> **Recommendation:** If there is untapped weekend consumer demand, targeted weekend promotions or pop-up events could help monetize this gap.
+
+---
+
+### Summary of Top Priorities
+
+1. **Investigate the H2 revenue collapse** — this is the most urgent business issue.
+2. **Double down on Shortbread** — it's driving nearly half of total profit.
+3. **Protect the Robert Hernandez account** — one customer = $845K in revenue.
+4. **Expand the female and under-30 customer base** — significant untapped segments.
+5. **Replicate San Antonio's success model** across other cities.
+6. **Leverage top salespeople** (Travis Doyle, Joseph Hill) as coaches for the rest of the team.
